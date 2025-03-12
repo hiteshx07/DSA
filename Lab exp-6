@@ -96,6 +96,6 @@ if(isEmpty())
         exit(0);
     default:
         printf("Invalid choice!!!!\n");
-    }
+    {
     printf("\n");
 }
